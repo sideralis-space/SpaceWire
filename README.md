@@ -7,7 +7,7 @@
 
 ## Why This Project?
 
-The *SpaceWire-Fibre Open Source Project* is driven by the vision of accelerating innovation, reducing costs, and fostering collaboration in space communication technologies. By sharing knowledge and resources, we aim to standardize and simplify the implementation of these technologies in various space missions.
+The *Inunus* *SpaceWire-Fibre Open Source Project* is driven by the vision of accelerating innovation, reducing costs, and fostering collaboration in space communication technologies. By sharing knowledge and resources, we aim to standardize and simplify the implementation of these technologies in various space missions.
 
 ## Objectives
 
